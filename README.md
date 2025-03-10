@@ -65,6 +65,30 @@ GET /scrape-and-tweet
 ├── requirements.txt
 └── README.md
 
+🧪 Testing
+
+Ensure the application functions as intended by including the following tests:
+
+✅ Unit Tests
+
+Instagram data retrieval.
+
+Caption summarization.
+
+Tweet posting (with and without images).
+
+✅ Integration Tests
+
+Full workflow combining scraping, summarization, and posting.
+
+Customization and configuration changes.
+
+📋 Document Test Cases
+
+Clearly outline test cases with expected outcomes.
+
+Example Test Case:
+
 ⚠️ Important Notes
 
 Ensure your .env file is not included in your public repository.
